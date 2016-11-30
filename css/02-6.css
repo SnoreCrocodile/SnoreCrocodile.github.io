@@ -1,0 +1,414 @@
+.title_box{
+    min-width: 1246px;
+    background-color: #70ad46;
+}
+
+.title{
+    width: 1150px;
+    height: 56px;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    margin-top: 10px;
+    width: 149px;
+    height: 38px;
+}
+
+.put_in{
+    float: right;
+    margin-top: 15px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.put_in a{
+    font-size: 16px;
+    color: #fff;
+}
+
+.some{
+    width: 400px;
+    border: none;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+
+#glass{
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background: url("../img/sousuo.png") no-repeat;
+    position: relative;
+    top: 3px;
+    left: 53px;
+}
+
+.input_o{
+    width: 663px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top: 8px;
+    margin-left: 116px;
+    display:inline-block;
+}
+
+.didian{
+    margin-left: 20px;
+    display: inline-block;
+    line-height: 30px;
+    width: 60px;
+    border-right: 1px solid #ccc;
+}
+
+#little{
+    border-top: 4px solid #999;
+    border-bottom: 4px solid rgba(0,0,0,0);
+    border-left: 4px solid rgba(0,0,0,0);
+    border-right: 4px solid rgba(0,0,0,0);
+    position: relative;
+    top: 11px;
+    left: 10px;
+}
+
+.surch{
+    width: 124px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #608a3b;
+    color: #fff;
+    font-size: 15px;
+    float: right;
+}
+
+
+
+.people{
+    width: 1150px;
+    height: 1350px;
+    margin: 0 auto;
+}
+
+.left{
+    width: 188px;
+    display: inline-block;
+    height: 318px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.left i{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background: url("../img/l-people.png");
+    margin-left: 54px;
+    margin-top: 20px;
+}
+
+.left span{
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.left div{
+    width: 190px;
+    font-size: 15px;
+    line-height: 40px;
+    color:#333;
+    text-align: center;
+}
+
+.left div:hover{
+    background-color: #75a749;
+}
+
+
+.right {
+    margin-top: 20px;
+    width: 900px;
+    padding: 20px;
+    float: right;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+
+.right li {
+    border-bottom: 1px solid #cccccc;
+    padding: 30px 0;
+}
+
+.center-top h2 {
+    font-size: 16px;
+    color: #333333;
+    font-weight: bold;
+}
+
+.center-top p {
+    background: #eeeeee;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+.center-top span {
+    float: left;
+    text-align: center;
+    display: inline-block;
+    padding: 0 25px;
+}
+
+.center-top span:hover {
+    background: rgba(204, 204, 204, 0.6);
+    color: #333333;
+}
+
+.center-top-checked {
+    background: #cccccc;
+    color: #333333;
+}
+
+.center-content ul {
+    width: 900px;
+
+}
+
+.center-l {
+    float: left;
+    width: 218px;
+    height: 160px;
+    background: url("../img/shou-4.png") center;
+    margin-right: 24px;
+}
+
+.center-img1 {
+    background: url("../img/guess-1.png") center;
+}
+
+.center-img2 {
+    background: url("../img/guess-2.png") center;
+}
+
+.center-img3 {
+    background: url("../img/guess-3.png") center;
+}
+
+.center-img4 {
+    background: url("../img/guess-4.png") center;
+}
+
+.center-img5 {
+    background: url("../img/shou-4.png") center;
+}
+
+.center-m {
+    float: left;
+}
+
+.center-m p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    line-height: 16px;
+    margin-bottom: 15px;
+
+}
+
+.center-m span {
+    font-size: 14px;
+    color: #666666;
+    display: block;
+    line-height: 33px;
+}
+
+.location {
+    display: inline-block;
+    width: 10px;
+    height: 13px;
+    background: url("../img/icon.png") 11px 0;
+    margin-right: 7px;
+}
+
+.center-m b {
+    color: #ffa422;
+}
+
+.ren {
+    display: inline-block;
+    width: 25px;
+    height: 22px;
+    background: url("../img/icon.png") 3px -108px;
+    vertical-align: -3px;
+}
+
+.cheng {
+    display: inline-block;
+    width: 25px;
+    height: 22px;
+    background: url("../img/icon.png") -30px -108px;
+    vertical-align: -3px;
+}
+
+.center-m s, .center-m u {
+    display: inline-block;
+    border-radius: 3px;
+    line-height: 24px;
+    padding: 0 10px;
+    margin-top: 10px;
+}
+
+.center-m s {
+
+    color: #ffa422;
+    border: 1px solid #ffa422;
+}
+
+.center-m u {
+    color: #75a749;
+    border: 1px solid #75a749;
+    margin-left: 10px;
+}
+
+.center-r {
+    float: right;
+    margin-right: 20px;
+    text-align: right;
+}
+
+.center-r a {
+    display: inline-block;
+    border-radius: 3px;
+    line-height: 24px;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+
+}
+
+.center-r i {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+.edit {
+    background: url("../img/icon.png") 0 -140px;
+
+}
+
+.del {
+    background: url("../img/icon.png") -21px -140px;
+}
+
+.edit-pa {
+    margin-right: 7px;
+}
+
+.center-r p {
+    color: #eb5f00;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.center-r span {
+    font-size: 24px;
+}
+
+
+/*页码*/
+.page-box{
+    text-align: center;
+    margin: 40px 0 30px ;
+
+}
+.page-box *{
+    padding: 0 11px;
+}
+.page-box a{
+    margin: 0 3px;
+    text-align: center;
+    display: inline-block;
+
+    height: 30px;
+    line-height: 30px;
+    color: #333333;
+    border: 1px solid #cccccc;
+}
+
+.page-box a:hover{
+    background: #f5f5f5;
+}
+.page{
+    background: #f5f5f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottom{
+    margin-top: 40px;
+    min-width: 1246px;
+    height: 262px;
+    background-color: #242623;
+}
+
+.bottom_box{
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.first{
+    width: 815px;
+    height: 110px;
+    color: #b5b5b4;
+    padding-top: 30px;
+}
+
+.first a{
+    color: #b5b5b4;
+    margin-right: 5px;
+    line-height: 35px;
+}
+
+.finish{
+    width: 948px;
+    border-top: 1px solid #444444;
+}
+
+.finish p{
+    margin-top: 30px;
+    color: #b5b5b4;
+}
+
+.bottom_box i{
+    display: inline-block;
+    width: 152px;
+    height: 154px;
+    float: right;
+    position: relative;
+    top:-198px;
+    background: url("../img/xuebi.png") -18px -230px;
+}
+
+.bottom_box i span {
+    color: #b5b5b4;
+    position: relative;
+    top: 165px;
+    left: 20px;
+}

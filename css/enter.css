@@ -1,0 +1,285 @@
+
+
+.bg_img{
+    min-width: 1246px;
+    height: 656px;
+    overflow: hidden;
+    background: url("../img/A.jpg") no-repeat center;
+}
+
+.logo{
+    float: left;
+    margin-left: 47px;
+    width: 296px;
+    height: 50px;
+}
+
+.title{
+    width: 1246px;
+    margin: 0 auto;
+    margin-top: 26px;
+}
+
+.message{
+    width: 513px;
+    height: 465px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-top: 90px;
+}
+
+.matter{
+    width: 375px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.head{
+    text-align: center;
+    font-size: 20px;
+    line-height: 60px;
+    color: #333;
+}
+
+.floatRight{
+    float: right;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.five{
+    margin-bottom: 5px;
+}
+
+.red{
+    color: #eb5f00;
+    font-size: 14px;
+}
+
+.spanDefault{
+    font-size: 14px;
+    color: #333;
+}
+
+.inputFont{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    text-indent: 12px;
+}
+
+.plotName{
+    padding-right: 30px;
+    width: 238px;
+    height: 38px;
+}
+
+.postNum{
+    width: 118px;
+    height: 38px;
+}
+
+.ice{
+    width: 17px;
+    height: 20px;
+    display: inline-block;
+}
+
+.user{
+    background: url("../img/ice.png") no-repeat -2px -3px;
+    position: absolute;
+    top: 11px;
+    left: 306px;
+}
+
+.key{
+    background: url("../img/ice.png") no-repeat -22px -2px;
+    position: absolute;
+    top: 12px;
+    left: 334px;
+}
+
+.verify{
+    margin-left: 4px;
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    background-color: #b0b0b0;
+    color: #fff;
+    font-size: 14px;
+    line-height: 36px;
+    text-align: center;
+}
+
+.exchange{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+input[type='checkbox'].checkbox {opacity:0; display:inline-block; height:13px; }
+label.checkbox {background:url(../img/B.jpg) no-repeat; height:13px; padding-left:25px;}
+input[type='checkbox'].checkbox:checked + .checkbox {background:url(../img/C.jpg) no-repeat;}
+
+.checkbox{
+    margin-left: 26px;
+}
+
+.checkbox a{
+    color: #70ad46;
+}
+
+.register{
+    margin-left: 75px;
+    color: #70ad46;
+}
+
+.into{
+    width: 270px;
+    border: none;
+    border-radius: 4px;
+    background-color: #70ad46;
+    color: #fff;
+    line-height: 40px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+}
+
+.hr{
+    margin-top: 10px;
+}
+
+.common{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.qq{
+    background: url("../img/ice.png") no-repeat -4px -30px;
+}
+
+.chet{
+    background: url("../img/ice.png") no-repeat -67px -30px;
+}
+
+.xinlang{
+    background: url("../img/ice.png") no-repeat -130px -30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottom{
+    height: 262px;
+    background-color: #242623;
+}
+
+.bottom_box{
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.first{
+    width: 815px;
+    height: 110px;
+    color: #b5b5b4;
+    padding-top: 30px;
+}
+
+.first a{
+    color: #b5b5b4;
+    margin-right: 5px;
+    line-height: 35px;
+}
+
+.finish{
+    width: 948px;
+    border-top: 1px solid #444444;
+}
+
+.finish p{
+    margin-top: 30px;
+    color: #b5b5b4;
+}
+
+.bottom_box i{
+    display: inline-block;
+    width: 152px;
+    height: 154px;
+    float: right;
+    position: relative;
+    top:-198px;
+    background: url("../img/xuebi.png") -18px -230px;
+}
+
+.bottom_box i span {
+    color: #b5b5b4;
+    position: relative;
+    top: 165px;
+    left: 20px;
+}

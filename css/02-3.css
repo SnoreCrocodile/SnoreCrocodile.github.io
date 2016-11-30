@@ -1,0 +1,323 @@
+
+.title_box{
+    min-width: 1246px;
+    background-color: #70ad46;
+}
+
+.title{
+    width: 1150px;
+    height: 56px;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    margin-top: 10px;
+    width: 149px;
+    height: 38px;
+}
+
+.put_in{
+    float: right;
+    margin-top: 15px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.put_in a{
+    font-size: 16px;
+    color: #fff;
+}
+
+.some{
+    width: 400px;
+    border: none;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+
+#glass{
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background: url("../img/sousuo.png") no-repeat;
+    position: relative;
+    top: 3px;
+    left: 53px;
+}
+
+.input_o{
+    width: 663px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top: 8px;
+    margin-left: 116px;
+    display:inline-block;
+}
+
+.didian{
+    margin-left: 20px;
+    display: inline-block;
+    line-height: 30px;
+    width: 60px;
+    border-right: 1px solid #ccc;
+}
+
+#little{
+    border-top: 4px solid #999;
+    border-bottom: 4px solid rgba(0,0,0,0);
+    border-left: 4px solid rgba(0,0,0,0);
+    border-right: 4px solid rgba(0,0,0,0);
+    position: relative;
+    top: 11px;
+    left: 10px;
+}
+
+.surch{
+    width: 124px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #608a3b;
+    color: #fff;
+    font-size: 15px;
+    float: right;
+}
+
+.people{
+    width: 1150px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+.left{
+    width: 188px;
+    display: inline-block;
+    height: 318px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.left i{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background: url("../img/l-people.png");
+    margin-left: 54px;
+    margin-top: 20px;
+}
+
+.left span{
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.left div{
+    cursor: pointer;
+    width: 188px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+}
+
+/*.left div:hover{*/
+    /*background-color: #75a749;*/
+/*}*/
+
+.right{
+    margin-top: 20px;
+    width:926px;
+    height: 445px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding-left: 20px;
+    float: right;
+}
+
+.right p{
+    margin-top: 20px;
+}
+
+.ccc{
+    margin-top: 10px;
+    width: 906px;
+    height: 40px;
+    background-color: #eee;
+}
+
+.ccc div{
+    width: 102px;
+    float: left;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/*.ccc div:hover{*/
+    /*color: #333;*/
+    /*background-color: #ccc;*/
+/*}*/
+
+
+/*.boardOne{*/
+    /*display: none;*/
+/*}*/
+
+.file {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+    width: 105px;
+    position: relative;
+    display: inline-block;
+    background: #75a749;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #fff;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 35px;
+
+}
+.file input {
+    position: absolute;
+    font-size: 100px;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.right img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 180px;
+    height: 180px;
+    display: block;
+}
+
+.sub{
+    width: 122px;
+    background-color:#75a749;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    line-height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cancel{
+    border: none;
+    background-color: rgba(0,0,0,0);
+    cursor: pointer;
+}
+
+.boardTwo span{
+    color: #333;
+    font-size: 14px;
+}
+
+.set{
+    text-indent: 9px;
+    width: 224px;
+    height: 33px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.margin{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.boardTwo{
+    display: none;
+}
+
+.boardThree{
+    display: none;
+}
+
+.now{
+    margin-top: 40px;
+}
+
+.space{
+    margin-left: 13px;
+}
+
+.new{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.again{
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+#bottom{
+    margin-top: 40px;
+    min-width: 1246px;
+    height: 262px;
+    background-color: #242623;
+}
+
+.bottom_box{
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.first{
+    width: 815px;
+    height: 110px;
+    color: #b5b5b4;
+    padding-top: 30px;
+}
+
+.first a{
+    color: #b5b5b4;
+    margin-right: 5px;
+    line-height: 35px;
+}
+
+.finish{
+    width: 948px;
+    border-top: 1px solid #444444;
+}
+
+.finish p{
+    margin-top: 30px;
+    color: #b5b5b4;
+}
+
+.bottom_box i{
+    display: inline-block;
+    width: 152px;
+    height: 154px;
+    float: right;
+    position: relative;
+    top:-198px;
+    background: url("../img/xuebi.png") -18px -230px;
+}
+
+.bottom_box i span {
+    color: #b5b5b4;
+    position: relative;
+    top: 165px;
+    left: 20px;
+}

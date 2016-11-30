@@ -1,0 +1,331 @@
+.min-wid{
+    min-width: 1580px;
+}
+
+.common{
+    width: 1214px;
+    margin: 0 auto;
+}
+
+.color-white{
+    color: #fff;
+}
+
+.headline{
+    margin-top: 190px;
+    width: 502px;
+    height: 141px;
+    font-size: 36px;
+}
+
+.headline-black{
+    width: 502px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.text-one{
+    width: 600px;
+    line-height: 28px;
+}
+
+.text-two{
+    width: 405px;
+    line-height: 26px;
+}
+
+.short-white{
+    width: 20px;
+    height: 1px;
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.short-black{
+    width: 20px;
+    height: 1px;
+    background-color: #000;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bg-box{
+    width: 1580px;
+    overflow: hidden;
+    background: url("../img/blackg.png") no-repeat;
+    margin: 0 auto;
+}
+
+.content{
+    height: 841px;
+}
+
+.content i{
+    display: inline-block;
+    width: 32px;
+    height: 30px;
+    background: url("../img/iceo.png") 0 -2px;
+}
+
+.logo{
+    margin-top: 50px;
+}
+
+.goes{
+    display: block;
+    margin-top: -26px;
+    margin-left: 38px;
+}
+
+.project{
+    display: block;
+    width: 153px;
+    height: 56px;
+    border: 2px solid #fff;
+    text-align: center;
+    line-height: 56px;
+}
+
+.services{
+    overflow: hidden;
+    background-color: #f6f6f6;
+}
+
+.box-one{
+    height: 800px;
+}
+
+.box-one .headline-black{
+    margin-top: 190px;
+}
+
+.square{
+    width: 272px;
+    height: 272px;
+}
+
+.position-one{
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
+
+.position-two{
+    position: relative;
+    top: -405px;
+    left: 444px;
+}
+
+.position-three{
+    position: relative;
+    top: -820px;
+    left: 587px;
+}
+
+.position-four{
+    position: relative;
+    top: -949px;
+    left: 730px;
+}
+
+.position-five{
+    position: relative;
+    top: -1363px;
+    left: 874px;
+}
+
+.position-six{
+    position: relative;
+    top: -1493px;
+    left: 1017px;
+}
+
+.position-seven{
+    position: relative;
+    top: -1907px;
+    left: 1160px;
+}
+
+.position-eight{
+    position: relative;
+    top: -1894px;
+    left: 587px;
+}
+
+.sin-top{
+    width: 0;
+    height: 0;
+    border-bottom: 136px solid #ffffff;
+    border-left: 136px solid rgba(255,255,255,0);
+    border-right:  136px solid rgba(255,255,255,0);
+}
+.sin-bottom{
+    width: 0;
+    height: 0;
+    border-top: 136px solid #ffffff;
+    border-left: 136px solid rgba(255,255,255,0);
+    border-right:  136px solid rgba(255,255,255,0);
+}
+
+.square a{
+    width: 200px;
+    height: 80px;
+    display: inline-block;
+    position: relative;
+    top: -168px;
+    left: 35px;
+}
+
+.square span{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.square i{
+    display: block;
+    margin: 0 auto;
+}
+
+.position-one i{
+    width: 20px;
+    height: 32px;
+    background: url("../img/iceo.png") -36px 0;
+}
+
+.position-two i{
+    width: 32px;
+    height: 32px;
+    background: url("../img/iceo.png") -160px 0;
+}
+
+.position-three i{
+    width: 32px;
+    height: 32px;
+    background: url("../img/iceo.png") -58px 0;
+}
+
+.position-four i{
+    width: 30px;
+    height: 26px;
+    background: url("../img/iceo.png") -91px -6PX;
+}
+
+.position-five i{
+    width: 32px;
+    height: 32px;
+    background: url("../img/iceo.png") -58px 0;
+}
+
+.position-six i{
+    width: 26px;
+    height: 32px;
+    background: url("../img/iceo.png") -199px -48px;
+}
+
+.position-seven i{
+    width: 28px;
+    height: 32px;
+    background: url("../img/book.png");
+}
+
+.position-eight i{
+    width: 32px;
+    height: 32px;
+    background: url("../img/iceo.png") 32px -2px;
+}
+
+.square:hover .sin-top{
+    border-bottom: 136px solid #28282e;
+}
+
+.square:hover .sin-bottom{
+    border-top: 136px solid #28282e;
+}
+
+.square:hover span{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.title{
+    height: 500px;
+}
+
+.works{
+    height: 280px;
+}
+
+.works p{
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.title-box{
+    overflow: hidden;
+    background-color: #28282e;
+}
+
+.title-a{
+    margin-top: 50px;
+}
+
+.phone{
+    display: block;
+    width: 218px;
+    height: 46px;
+    background: url("../img/phone.png");
+    position: relative;
+    top: -340px;
+    left: 659px;
+}
+
+.tv{
+    display: block;
+    width: 560px;
+    height: 320px;
+    background: url("../img/tv.png");
+    position: relative;
+    top: -406px;
+    left: 490px;
+}
+
+.onclick-box{
+    width: 3px;
+    height: 130px;
+    position: relative;
+    left: 1097px;
+    top: -645px;
+}
+
+.onclick{
+    display: inline-block;
+    width: 3px;
+    height: 25px;
+    background-color: #535358;
+}
+
+.onclick:hover {
+    background-color: #ffffff;
+}
+
+.minds p{
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.sp{
+    width: 500px;
+    text-align: left;
+}
+
+.pb {
+    width: 200px;
+}
+
+.file-one{
+    text-align: left;
+    text-indent: ;
+}

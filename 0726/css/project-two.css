@@ -1,0 +1,341 @@
+.min-wid{
+    min-width: 1580px;
+}
+
+.common{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #f8f8f8;
+    color: #1c1d24;
+}
+
+.title-box{
+    background-color: #f3bc23;
+}
+
+.title p{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 35px;
+    display: inline;
+}
+
+.title a{
+    font-size: 14px;
+    float: right;
+    color: #1c1d24;
+    line-height: 35px;
+}
+
+.title i{
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-left: 10px;
+    background: url("../img/ice.png") 94px 118px;
+}
+
+.sousuo-box{
+    background-color: #1c1d24;
+}
+
+.input-box{
+    display: inline-block;
+    width: 202px;
+    height: 21px;
+    margin-top: 21px;
+    background-color: #2f313d;
+    padding-left: 6px;
+    padding-top: 7px;
+    float: right;
+}
+
+.sousuo input{
+    width: 176px;
+    height: 14px;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    background-color: #2f313d;
+}
+
+.input-box i{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background: url("../img/ice.png") 77px 119px;
+}
+
+.black-line-one{
+    display: inline;
+    width: 1px;
+    height: 28px;
+    background-color: #000000;
+    float: right;
+    margin-top: 22px;
+}
+
+.black-line-two{
+    display: inline;
+    width: 207px;
+    height: 1px;
+    background-color: #000000;
+    float: right;
+    margin-top: 49px;
+    position: relative;
+    left: 208px;
+}
+
+.logo{
+    height: 50px;
+    background-color: #1c1d24;
+}
+
+.logo-box{
+    width: 192px;
+    height: 23px;
+    background: url("../img/ice.png");
+    float: left;
+    margin-top: 4px;
+}
+
+.ul-title{
+    margin-left: 547px;
+}
+
+.ul-title a{
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.ul-title a:hover{
+    color: #f3bc23;
+}
+
+.ul-title li{
+    float: left;
+    line-height: 1.2;
+    font-size: 15px;
+}
+
+.bg-box{
+    overflow: hidden;
+}
+
+.bg{
+    width: 1600px;
+    height: 635px;
+    background: url("../img/bg.png") no-repeat -70px -100px;
+    margin: 0 auto;
+}
+
+.dot-box{
+    height: 78px;
+}
+
+.dot{
+    width: 217px;
+    height: 25px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.dot a{
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    margin-right: 7px;
+    margin-left: 7px;
+    background: url("../img/ice.png") -101px -193px;
+}
+
+.dot a:hover{
+    background: url("../img/ice.png") -80px -193px;
+}
+
+.second-box{
+    height: 465px;
+}
+
+.second-title{
+    font-size: 39px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.look-gong{
+    height: 266px;
+    float: left;
+    margin-left: 28px;
+}
+
+.look-gong i{
+    display: inline-block;
+    width: 388px;
+    height: 213px;
+}
+
+.look-gong p{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.one i{
+    background: url("../img/look-one.png") no-repeat;
+}
+
+.two i{
+    background: url("../img/look-two.png") no-repeat;
+}
+
+.three i{
+    background: url("../img/look-three.png") no-repeat;
+}
+
+.long-one{
+    width: 1090px;
+    height: 1px;
+    background-color: #c3c4c5;
+    margin: 0 auto;
+    margin-top: 360px;
+}
+
+.third-box{
+    height: 1260px;
+}
+
+.third-title{
+    font-size: 39px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.w{
+    width: 749px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border: 1px solid #d4d8d9;
+    font-size: 14px;
+    line-height: 27px;
+    padding-left: 50px;
+    padding-top: 30px;
+    margin-top: 50px;
+}
+
+.bird{
+    height: 111px;
+}
+
+.bird span{
+    color: #e4b123;
+}
+
+.third-box i{
+    display: inline-block;
+    float: right;
+    margin-top: -19px;
+    margin-right: 27px;
+}
+
+.bird i{
+    width: 30px;
+    height: 25px;
+    background: url("../img/ice.png") 0 -175px;
+}
+
+.book{
+    height: 550px;
+}
+
+.book i{
+    width: 25px;
+    height: 29px;
+    background: url("../img/ice.png") -34px -175px;
+}
+
+.book img{
+    float: left;
+    margin-top: 49px;
+}
+
+.book span{
+    display: block;
+    color: #e4b123;
+}
+.book p{
+    width: 255px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 35px;
+    margin-top: 175px;
+}
+
+.face{
+    height: 141px;
+}
+.face i{
+    width: 12px;
+    height: 25px;
+    background: url("../img/ice.png") -63px -175px;
+}
+
+.container-three{
+    background-color: #1c1d24;
+}
+
+.bottom{
+    height: 144px;
+}
+
+.bottom-logo{
+    display: inline-block;
+    float: left;
+    width: 53px;
+    height: 53px;
+    margin-top: 50px;
+    margin-left: 70px;
+    background: url("../img/ice.png") -131px -23px no-repeat;
+}
+
+.bottom span{
+    float: left;
+    color: #ffffff;
+    margin-top: 100px;
+    margin-left: -106px;
+}
+
+.butt{
+    float: right;
+    color: #ffffff;
+    width: 314px;
+    height: 28px;
+    background-color: #2f313d;
+    line-height: 28px;
+    text-indent: 1em;
+    margin-top: 35px;
+}
+
+.message{
+    display: inline-block;
+    width: 17px;
+    height: 15px;
+    margin-left: 78px;
+    background: url("../img/ice.png") 113px 118px;
+}
+
+.first{
+    margin-left: 574px;
+    margin-top: 100px;
+}
+
+.fuc{
+    float: left;
+    color: #ffffff;
+    margin-left: 20px;
+}
